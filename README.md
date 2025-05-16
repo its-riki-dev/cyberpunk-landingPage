@@ -2,7 +2,7 @@
 
 A visually immersive cyberpunk-themed landing page built with Three.js, TailwindCSS, and GSAP. Features interactive 3D graphics with post-processing effects, a vibrant neon aesthetic, and a responsive layout.
 
-![HomeSS](public/Imgs/heropage.png)(https://its-riki-dev.github.io/cyberpunk-landingPage/)
+[![HomeSS](public/Imgs/heropage.png)](https://cyberpunk-landing-page-chi.vercel.app/)
 
 ---
 
